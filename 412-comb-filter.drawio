@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T05:49:10.744Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="U-627gwzXfaXNRrsgEEf" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T05:54:56.984Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ihaUjbCBEeL1vSs7eK0j" version="21.2.1" type="github">
   <diagram name="第 1 页" id="YcZ9tNFfG13hEdCVb2yW">
     <mxGraphModel dx="1390" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -358,28 +358,28 @@
         <mxCell id="Z86Ds3hcCxGVPMcqKvMC-4" value="Comb-filter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1680" y="110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-7" value="Conv 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-7" value="Conv 1&amp;nbsp;C=33 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1520" y="290" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-8" value="Conv 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-8" value="Conv 2 C=33 x 2 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1520" y="340" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-9" value="Conv 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-9" value="Conv 3 C=33&amp;nbsp;x3&amp;nbsp; Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1520" y="380" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-10" value="Conv 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-10" value="Conv 4 C=33&amp;nbsp;x 4 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1521" y="430" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-11" value="Conv 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-11" value="Conv 5 C=33&amp;nbsp;x 4 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1520" y="475" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-12" value="Conv 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-12" value="Conv 6 C=33 x 3 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1520" y="525" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-13" value="Conv 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-13" value="Conv 7 C=33 x2 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1520" y="565" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-14" value="Conv 8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-14" value="Conv 8 C=33 x 1 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1520" y="615" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z86Ds3hcCxGVPMcqKvMC-23" value="Input&amp;nbsp;feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -408,6 +408,9 @@
         </mxCell>
         <mxCell id="Z86Ds3hcCxGVPMcqKvMC-33" value="Comb-filter&amp;nbsp;&lt;br&gt;subband weight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1700" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="285" width="20" height="365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
