@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T05:54:56.984Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="ihaUjbCBEeL1vSs7eK0j" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T05:58:40.658Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="u4FDhAnjw-k9k4_v_hsL" version="21.2.1" type="github">
   <diagram name="第 1 页" id="YcZ9tNFfG13hEdCVb2yW">
     <mxGraphModel dx="1390" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,6 +411,42 @@
         </mxCell>
         <mxCell id="Z86Ds3hcCxGVPMcqKvMC-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1790" y="285" width="20" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-36" value="Conv 1&amp;nbsp;C=33 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="285" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-37" value="Conv 2 C=33 x 2 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="335" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-42" value="Conv 7 C=33 x2 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="380" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-43" value="Conv 8 C=33 x 1 Kernel=5 x 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1835" y="430" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-44" value="FC 33" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-45" value="MASK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="585" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-48" value="FC 33" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1954" y="525" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-49" value="FC 33" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2031" y="525" width="54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-50" value="Enhanced&amp;nbsp;&lt;br&gt;subband weight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1925" y="585" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-51" value="Comb-filter&amp;nbsp;&lt;br&gt;subband weight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2015" y="585" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-52" value="Self-attention 33" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1836" y="480" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z86Ds3hcCxGVPMcqKvMC-53" value="Input&amp;nbsp;feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1908" y="240" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
