@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T08:06:05.906Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="kUaVGlCwBmgtilduS4NP" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T08:06:46.026Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="n2v_wKxI_XSzIOkumWOO" version="21.3.4" type="github">
   <diagram name="第 1 页" id="YcZ9tNFfG13hEdCVb2yW">
     <mxGraphModel dx="841" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="-a4pzXXfTV53J1_bk-B2-89" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFDF7;strokeColor=#998080;" vertex="1" parent="1">
           <mxGeometry x="2602" y="52.5" width="240" height="367.5" as="geometry" />
         </mxCell>
-        <mxCell id="-a4pzXXfTV53J1_bk-B2-55" value="Pitch loss" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3175" y="282.5" width="110" height="30" as="geometry" />
+        <mxCell id="-a4pzXXfTV53J1_bk-B2-55" value="Pitch" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3202" y="280" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-a4pzXXfTV53J1_bk-B2-53" value="MASK&amp;nbsp;enhanced&amp;nbsp;&lt;br&gt;subband speech&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2856.25" y="282.5" width="105.75" height="30" as="geometry" />
