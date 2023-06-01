@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T08:04:36.505Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="xHDBxSrUsIN39V2LCmOG" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T08:06:05.906Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="kUaVGlCwBmgtilduS4NP" version="21.3.4" type="github">
   <diagram name="第 1 页" id="YcZ9tNFfG13hEdCVb2yW">
     <mxGraphModel dx="841" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -925,14 +925,6 @@
         <mxCell id="-a4pzXXfTV53J1_bk-B2-43" value="MASK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2887.25" y="200" width="44" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-a4pzXXfTV53J1_bk-B2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-a4pzXXfTV53J1_bk-B2-44" target="-a4pzXXfTV53J1_bk-B2-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3006" y="237" />
-              <mxPoint x="3006" y="295" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-a4pzXXfTV53J1_bk-B2-44" value="Enhanced&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;subband weight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2968.5" y="193.13" width="95" height="43.75" as="geometry" />
         </mxCell>
@@ -945,7 +937,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-a4pzXXfTV53J1_bk-B2-45" value="Harmonic&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;subband weight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3074" y="193.13" width="98" height="43.75" as="geometry" />
+          <mxGeometry x="3074" y="193.13" width="96" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="-a4pzXXfTV53J1_bk-B2-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-a4pzXXfTV53J1_bk-B2-49" target="-a4pzXXfTV53J1_bk-B2-50">
           <mxGeometry relative="1" as="geometry" />
