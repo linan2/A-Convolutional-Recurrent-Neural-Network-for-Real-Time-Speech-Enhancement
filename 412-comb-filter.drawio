@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T08:38:14.034Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="hwP0OTmBqw8Hbmqaq2bz" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T08:38:45.190Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="hrFra7OXJUnR8qgddk0I" version="21.3.4" type="github">
   <diagram name="第 1 页" id="YcZ9tNFfG13hEdCVb2yW">
     <mxGraphModel dx="697" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -959,7 +959,7 @@
         <mxCell id="-a4pzXXfTV53J1_bk-B2-50" value="Pitch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3243" y="200" width="44" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-a4pzXXfTV53J1_bk-B2-54" value="Harmonic&amp;nbsp;&lt;br&gt;compensate&amp;nbsp;waveforms" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="-a4pzXXfTV53J1_bk-B2-54" value="Harmonic&amp;nbsp;&lt;br&gt;compensated waveforms" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="3020" y="370" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-a4pzXXfTV53J1_bk-B2-56" value="Target loss" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
