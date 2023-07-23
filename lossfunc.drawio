@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T07:17:39.586Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3880.400 QQBrowser/10.8.4554.400" etag="6edrl0LdsijlhM6GSIjP" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T07:18:04.168Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3880.400 QQBrowser/10.8.4554.400" etag="daTrLHPf8df5CMsUqJAB" version="21.5.2" type="github">
   <diagram name="第 1 页" id="gUf4rLJPLHaj4xbvrvVN">
     <mxGraphModel dx="673" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="EtCsab5RaB05h5G7SnvC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EtCsab5RaB05h5G7SnvC-1" target="EtCsab5RaB05h5G7SnvC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EtCsab5RaB05h5G7SnvC-1" value="Speech计算能量*每个子带的snr权重&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EtCsab5RaB05h5G7SnvC-1" value="子带Speech计算能量*每个子带的snr权重&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EtCsab5RaB05h5G7SnvC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EtCsab5RaB05h5G7SnvC-2">
@@ -15,7 +15,7 @@
             <mxPoint x="400" y="320.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EtCsab5RaB05h5G7SnvC-2" value="Noise计算能量*每个子带的snr权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EtCsab5RaB05h5G7SnvC-2" value="子带Noise计算能量*每个子带的snr权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EtCsab5RaB05h5G7SnvC-3" value="过抑制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
