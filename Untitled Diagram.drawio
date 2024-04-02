@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T07:05:10.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="u1xEqj6Avj28pnfZ6SF7" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T07:05:44.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="lL3_Bsx1HmfxlTg4AtWc" version="22.1.21" type="github">
   <diagram name="Page-1" id="sQC1HF0_hmsGm-GXC8HU">
     <mxGraphModel dx="554" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="9z_kRIzDohiJ9R-2ccIR-30" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;$$|\hat{X}(\omega)|&lt;br&gt;$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="289" y="353" width="38" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="9z_kRIzDohiJ9R-2ccIR-31" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;$$|\hat{X}(\omega)|^p&lt;br&gt;$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="360" y="287.5" width="38" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
