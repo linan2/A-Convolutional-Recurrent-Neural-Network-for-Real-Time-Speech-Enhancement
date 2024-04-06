@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T17:11:40.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ibx21I9LSdu6elVmhzQY" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T17:12:21.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="OebP30syBjGN-plsgBXD" version="24.2.1" type="github">
   <diagram name="Page-1" id="zJ17UTxlqdSrX6OBl4_O">
     <mxGraphModel dx="-822" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -347,6 +347,9 @@
         </mxCell>
         <mxCell id="Hh0wRw1lLY7-SUWANcJn-2" value="$$\hat{\textbf{S}}_g$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2102.5" y="335" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh0wRw1lLY7-SUWANcJn-4" value="$$\hat{\textbf{S}}^e$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2272" y="382" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
