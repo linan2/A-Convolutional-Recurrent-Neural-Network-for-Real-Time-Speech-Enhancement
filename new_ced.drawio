@@ -343,6 +343,9 @@
         <mxCell id="S4DQuL0AChRIHme5D5WO-9" value="Enhanced subband waveforms" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2343.5" y="400" width="106.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="S4DQuL0AChRIHme5D5WO-11" value="$$\hat{\textbf{S}}$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2454" y="385" width="26" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
