@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="zJ17UTxlqdSrX6OBl4_O">
-    <mxGraphModel dx="-1040" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="-744" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,7 +337,7 @@
         <mxCell id="S4DQuL0AChRIHme5D5WO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S4DQuL0AChRIHme5D5WO-1" target="S4DQuL0AChRIHme5D5WO-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S4DQuL0AChRIHme5D5WO-1" value="Post-filter" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="S4DQuL0AChRIHme5D5WO-1" value="Post-filter" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="2233.5" y="400" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S4DQuL0AChRIHme5D5WO-9" value="Enhanced subband waveforms" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Times New Roman;" vertex="1" parent="1">
