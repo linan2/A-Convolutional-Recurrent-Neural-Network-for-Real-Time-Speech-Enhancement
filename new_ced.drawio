@@ -290,10 +290,10 @@
         <mxCell id="dL0ZDPhnh0uilclcxEB1-112" value="Conv2D &lt;br&gt;C=33&amp;nbsp;&lt;div&gt;Kernel=5 x 1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1933.25" y="65" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="dL0ZDPhnh0uilclcxEB1-122" value="&lt;span style=&quot;font-family: Helvetica; text-align: left;&quot;&gt;$$\hat{w}_y$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="dL0ZDPhnh0uilclcxEB1-122" value="&lt;span style=&quot;font-family: Helvetica; text-align: left;&quot;&gt;$$\hat{\textbf{w}}_y$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2198" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dL0ZDPhnh0uilclcxEB1-123" value="&lt;span style=&quot;font-family: Helvetica; text-align: left;&quot;&gt;$$\hat{w}_h$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="dL0ZDPhnh0uilclcxEB1-123" value="&lt;span style=&quot;font-family: Helvetica; text-align: left;&quot;&gt;$$\hat{\textbf{w}}_h$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2312" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dL0ZDPhnh0uilclcxEB1-124" value="&lt;span style=&quot;font-family: Helvetica; text-align: left;&quot;&gt;$$\hat{\textbf{G}}$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;fontFamily=Times New Roman;" parent="1" vertex="1">
